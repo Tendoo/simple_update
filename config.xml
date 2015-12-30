@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application>
+	<details>
+		<name>Simple Tendoo CMS Update</name>
+		<version>1.1</version>
+		<author>Blair Jersyer</author>
+		<description>An easy way to update Tendoo Core</description>
+		<main>simple_update.php</main>
+		<namespace>simple_update</namespace>
+	</details>
+</application>
